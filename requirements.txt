@@ -1,0 +1,8 @@
+# Python dependencies for Supervised ML Classification with Feature Selection
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
