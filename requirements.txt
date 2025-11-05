@@ -1,6 +1,5 @@
 # Python dependencies for Supervised ML Classification with Feature Selection
 
-jupyter notebook
 pandas
 numpy
 scikit-learn
