@@ -1,8 +1,5 @@
 🧠 Supervised Machine Learning Classification with Feature Selection
 
-Author: Prathamesh Uravane
-
-
 Implementation and comparison of supervised machine learning algorithms for classification problems with feature selection, applied to heart disease and diabetes prediction datasets.
 
 --------------------------------------------------------------------------------
@@ -82,7 +79,7 @@ Jupyter Notebook
 🚀 How to Run
 
 1. Clone this repository:
-   git clone https://github.com/<your-username>/supervised-ml-classification-feature-selection.git
+   git clone https://github.com/upratham/supervised-ml-feature-experiments.git
 
 2. Install dependencies:
    pip install -r requirements.txt
